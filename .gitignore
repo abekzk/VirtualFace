@@ -1,0 +1,5 @@
+data/dataset_images
+data/fer_with_landmarks.csv
+data/fer2013.csv
+data/fer2013new.csv
+data/lean_data.csv
